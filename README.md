@@ -1,2 +1,3 @@
 # projet-test-kafka
-test 
+Spring Batch + kafka
+
